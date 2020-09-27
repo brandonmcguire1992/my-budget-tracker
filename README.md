@@ -9,6 +9,6 @@ This project is a PWA budget tracking application that includes offline function
 
 ## Questions
 
-Please click [here](brandonmcguire1992@gmail.com) to contact me.
+Please click [here](mailto:brandonmcguire1992@gmail.com) to contact me.
 
 You may also view my Github repos [here](https://github.com/brandonmcguire1992)
